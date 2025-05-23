@@ -1,5 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-<p align="center"><a href="https://laravel.com" target="_blank">house reservation en ligne </p>
+<h1 align="center">House reservation en ligne </h1>
 <hr/>
 
 ![Capture1](https://github.com/user-attachments/assets/537c41b7-bdbb-45e2-a00c-1f22de875abf)
